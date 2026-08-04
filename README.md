@@ -1,9 +1,15 @@
-# AEDS 3 — Repositório de Conhecimento
+Banco de Dados — organização do curso
 
-Este repositório organiza exercícios, notas e projetos da disciplina AEDS III.
+Este repositório foi adaptado para a disciplina 60772 - BANCO DE DADOS (2º semestre de 2026).
 
-Principais pastas: docs/, notes/, exercises/, examples/, solutions/, assets/
+Estrutura principal:
+- ementa/: texto do plano, objetivos e ementa
+- cronograma/: cronograma semanal e alocação de horas
+- unidades/: módulos MD01..MD05 com tópicos e atividades
+- laboratorios/: exercícios práticos, testes e scripts SQL
+- exemplos/sql/: esquemas e consultas de exemplo
+- slides/: materiais de apoio e espaços reservados para slides
+- bibliografia/: bibliografia básica e complementar
+- avaliacao/: critérios, rubricas e esquema de notas
 
-Avaliação: 4 provas de 24 pontos cada (total 96). Ver docs/assessment.md e docs/gradebook.md para cronograma, tópicos e acompanhamento de notas.
-
-Comece em docs/structure.md e notes/TEMPLATE.md.
+Objetivo: fornecer uma árvore de materiais pronta para ministrar a disciplina e versionar atividades.
