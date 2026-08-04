@@ -1,0 +1,4 @@
+student_id,name,ADA (5%),Hands-On (15%),Testes presenciais (30%),Prova 1 - EX01 (25%),Prova 2 - EX02 (25%),Total (%)
+0001,Aluno Exemplo,4.5,13.5,27.0,22.5,23.5,91.5
+
+# Notas: preencha os campos ADA..EX02 com valores já ponderados (ex.: Hands-On deve estar em escala de 0 a 15). Total (%) é a soma (máx 100).
