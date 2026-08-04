@@ -16,7 +16,7 @@ Semana 14: MD05
 Semana 15: revisões e avaliações (provas / reavaliação)
 
 Avaliações e entregas:
-- Hands-On (tarefas) ao longo do semestre
+- Trabalhos práticos (tarefas) ao longo do semestre
 - Prova 1 (EX01) metade do conteúdo (após MD03)
 - Prova 2 (EX02) após MD04
 - Trabalho extensionista entregue na semana 12

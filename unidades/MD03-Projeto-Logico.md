@@ -7,5 +7,5 @@ Tópicos:
 
 Atividades práticas:
 - Tradução de ER para esquema relacional
-- Hands-on SQL: criação de esquemas, consultas e exercícios de otimização básica
+- Trabalhos práticos de SQL: criação de esquemas, consultas e exercícios de otimização básica
 - Testes presenciais (AS) cobrindo SQL e álgebra relacional
