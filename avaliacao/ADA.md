@@ -6,7 +6,7 @@ A ADA corresponde a 5% da nota final e avalia participação, assiduidade, acomp
 Critérios sugeridos (total = 5 pontos):
 - Presença e pontualidade: 2.0 pontos
 - Participação ativa em aulas e fóruns: 1.5 pontos
-- Entrega de atividades curtas (não avaliadas como HO): 1.0 ponto
+- Entrega de atividades curtas (não avaliadas como Trabalhos práticos): 1.0 ponto
 - Postura acadêmica e colaboração: 0.5 ponto
 
 Registro:

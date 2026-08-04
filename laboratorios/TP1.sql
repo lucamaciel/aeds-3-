@@ -1,4 +1,4 @@
--- HO1: esquema de exemplo e consultas de verificação
+-- TP1: esquema de exemplo e consultas de verificação (Trabalho Prático 1)
 -- Cria tabelas simples para um sistema de biblioteca
 
 CREATE TABLE Author (

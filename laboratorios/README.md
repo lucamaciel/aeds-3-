@@ -6,7 +6,7 @@ Fluxo de trabalho para tarefas práticas:
 3. Avaliação: conformidade da saída, qualidade do SQL e justificativa técnica.
 
 Exemplo de entregas:
-- HO1: modelagem e SQL de criação + 5 consultas
-- HO2: índices e análise de plano de execução
+- TP1: modelagem e SQL de criação + 5 consultas
+- TP2: índices e análise de plano de execução
 
 Instruções para o professor: configurar um esquema de avaliação automatizada quando possível (scripts de validação).
