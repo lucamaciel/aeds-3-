@@ -1,13 +1,14 @@
 Rubrica e processo de avaliação
 
-Pesos (conforme plano):
+Pesos (ajustados conforme solicitado):
 - ADA: 5%
-- Tarefas: 45% (Hands-On 15% / Testes presenciais 30%)
-- Trabalho Extensionista: 10%
-- Provas: 40% (EX01 20% / EX02 20%)
+- Trabalhos práticos: 15%
+- Testes presenciais: 30%
+- Trabalho Extensionista: 0% (não aplicado neste semestre)
+- Provas: 50% (EX01 25% / EX02 25%)
 
 Critérios gerais:
-- Hands-On: correção funcional, qualidade do SQL, explicação das escolhas (índices, normalização)
+- Trabalhos práticos: correção funcional, qualidade do SQL, explicação das escolhas (índices, normalização)
 - Testes (AS): questões práticas e teóricas presencialmente aplicadas
 - Provas: segurança na teoria e prática de modelagem e otimização
 
